@@ -33,7 +33,7 @@
 
 This project uses code from https://machinelearningmastery.com/how-to-develop-a-cnn-from-scratch-for-cifar-10-photo-classification/ to implement and test the time it takes to run training of CIFAR10.
 
-The code was tested on a PC with 16GB of RAM, an i7-5820k and an Nvidia RTX 2070 using Anaconda 3 and Pycharm Professional 2021.1.1 on a Windows 10 machine.
+The code was tested on a PC with 16GB of RAM, an i7-5820k and an Nvidia RTX 2070 using Python 3.8 and Pycharm Professional 2021.1.1 on a Windows 10 machine.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
